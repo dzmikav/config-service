@@ -3,7 +3,7 @@ on: push
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: dmitrykovaliov/config-service
+  IMAGE_NAME: dzmikav/config-service
   VERSION: latest
 
 jobs:
